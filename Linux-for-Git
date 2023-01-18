@@ -1,0 +1,17 @@
+cd
+mdir
+cat
+touch
+ls
+ll
+ls -a
+ll -a
+ls -r
+ll -r
+pwd
+mkdir
+mv
+cp
+free
+free -h
+fdisk -l
