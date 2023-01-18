@@ -1,0 +1,7 @@
+git commit -m "any one message" file-name
+git commit -m "any one message" file-name file-name
+git commit -m "any one message"    <-- to commit all files at a time
+git commit -am "any One message"
+git add -u to all modified and deleted files form roking to staging
+
+
